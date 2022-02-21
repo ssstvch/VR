@@ -2,6 +2,8 @@
 
 Project work on Figma layout.
 
+![viarushka](https://github.com/ssstvch/VR/blob/main/dist/assets/images/image_for_readme.png)
+
 ## <center> [View demo](https://#) </center>
 
 ### Build with:
