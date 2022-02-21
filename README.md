@@ -1,11 +1,13 @@
 # <center> Bootstrap study project </center>
 
----
+Project work on Figma layout.
 
-## [View demo](https://google.com)
+## <center> [View demo](https://#) </center>
 
-Используемые технологии:
+### Build with:
 
 - **Bootstrap 5**
+- **BEM methodology**
+- **JavaScript ES6**
 - **Figma**
 - **VSCode**
